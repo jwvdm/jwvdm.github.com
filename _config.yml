@@ -1,0 +1,16 @@
+permalink: /:year/:month/:day/:title
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+auto: true
+pygments: true
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+title : jwvdm.github.com
+tagline: personal page
+author :
+  name : Jan-Willem van de Meent
+  email : janwillem.vandemeent@columbia.edu
+  github : http://github.com/jwvdm
+  twitter : jwvdm
+#  feedburner : feedname
